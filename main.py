@@ -55,7 +55,8 @@ history_ = load_history()
 
 with gradio.Blocks(theme=gradio.themes.Soft(primary_hue=gradio.themes.colors.violet, secondary_hue=gradio.themes.colors.violet)) as demo:
     gradio.Markdown("""
-            <h1><center>AI ChatBot</center></h1>
+        AI Chatbot
+            <h1><center></center></h1>
         """)
     radio = gradio.Radio(value='gpt-3.5-turbo', choices=['gpt-3.5-turbo'] ,label='model')
     chatbot = gradio.Chatbot(value=[], elem_id="chatbot").style(height=650)
