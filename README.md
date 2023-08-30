@@ -12,6 +12,13 @@ ChatBot using ChatGPT API and Gradio
 
 - Ask away!
 
-  Sample:
-
   
+
+  Example:
+
+  ![](https://github.com/jessicathomas13/AI-Chatbot/blob/master/images/sample1.png)
+
+  ![](https://github.com/jessicathomas13/AI-Chatbot/blob/master/images/sample2.png)
+
+
+Note: This project is created exclusively for educational purpose. Not to be used for commercial purposes.
